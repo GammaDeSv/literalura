@@ -1,0 +1,11 @@
+com\literalura\client\GutendexClient$GutendexAuthor.class
+com\literalura\repository\LibroRepository.class
+com\literalura\service\LibroService.class
+com\literalura\client\GutendexClient$GutendexBook.class
+com\literalura\client\GutendexClient.class
+com\literalura\client\GutendexClient$GutendexResponse.class
+com\literalura\service\GutendexService.class
+com\literalura\controller\GutendexController.class
+com\literalura\controller\LibroController.class
+com\literalura\LiteraluraApplication.class
+com\literalura\model\Libro.class
